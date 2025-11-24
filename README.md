@@ -441,10 +441,10 @@ public List<Course> findAvailableCourses() {
 2. **Add a New Student**
    ```
    Enter Student ID: STU006
-   Enter Registration Number: 2024CSE004
-   Enter First Name: Emily
-   Enter Last Name: Davis
-   Enter Email: emily.davis@example.com
+   Enter Registration Number: 24BSA10342
+   Enter First Name: Sparsh
+   Enter Last Name: Agarwal
+   Enter Email: sparsh@vitbhopal.ac.in
    Enter Date of Birth (YYYY-MM-DD): 2003-04-15
    Student added successfully!
    ```
@@ -602,7 +602,7 @@ The `test-data/` directory contains sample CSV files for testing:
 
 **Note**: This project is developed for educational purposes to demonstrate comprehensive Java SE programming concepts and best practices.
 
-**Author**: Student Name  
+**Author**: Sparsh Agarwal
 **Course**: Programming in Java  
 **Date**: 2024  
 **Version**: 1.0.0
